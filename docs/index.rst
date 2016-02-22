@@ -13,6 +13,7 @@ Welcome to XY Documentation!
 
 * **API**
 
+  * :doc:`reference/index`
   * :doc:`services/index`
 
 * **Using XY**
@@ -29,6 +30,7 @@ Index:
    getting_started/index
    services/index
    topics/index
+   reference/index
    deployment/index
    editor_manual/index
    support/index
