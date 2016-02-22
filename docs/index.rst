@@ -26,6 +26,7 @@ Index:
    services/index
    topics/index
    editor_manual/index
+   support/index
 
 
 
