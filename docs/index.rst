@@ -25,6 +25,7 @@ Index:
    getting_started/index
    services/index
    topics/index
+   deployment/index
    editor_manual/index
    support/index
 
