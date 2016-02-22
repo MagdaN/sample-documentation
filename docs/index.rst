@@ -11,6 +11,10 @@ Welcome to XY Documentation!
   * :doc:`getting_started/index`
   * :doc:`getting_started/tutorial`
 
+* **API**
+
+  * :doc:`services/index`
+
 * **Using XY**
 
   * :doc:`editor_manual/index`
