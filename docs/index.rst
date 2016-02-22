@@ -6,6 +6,8 @@
 Welcome to XY Documentation!
 ================================================
 
+Ideas and base structure of a software documentation based on `this blogpost <https://jacobian.org/writing/what-to-write/>`_.
+
 * **First steps**
 
   * :doc:`getting_started/index`
