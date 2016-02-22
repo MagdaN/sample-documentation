@@ -23,6 +23,7 @@ Index:
    :titlesonly:
 
    getting_started/index
+   services/index
    topics/index
    editor_manual/index
 
