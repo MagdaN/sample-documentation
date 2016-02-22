@@ -6,7 +6,12 @@
 Welcome to XY Documentation!
 ================================================
 
-Ideas and base structure of a software documentation based on `this blogpost <https://jacobian.org/writing/what-to-write/>`_.
+* What is your software about?
+* What problem does it solve?
+* Which users are addressed by this Documentation?
+* Link to your code and issuetracker
+
+
 
 * **First steps**
 
@@ -34,6 +39,10 @@ Index:
    reference/index
    users_manual/index
    support/index
+   contribute/index
+   license/index
+
+Ideas and base structure of a software documentation based on `this blogpost <https://jacobian.org/writing/what-to-write/>`_ and `this blogpost <http://docs.writethedocs.org/writing/beginners-guide-to-docs/>`_ .
 
 
 
