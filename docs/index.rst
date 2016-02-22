@@ -3,25 +3,30 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Sample Documentation's documentation!
+Welcome to XY Documentation!
 ================================================
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis lectus metus, at posuere neque. Sed pharetra nibh eget orci convallis at posuere leo convallis. Sed blandit augue vitae augue scelerisque bibendum. Vivamus sit amet libero turpis, non venenatis urna. In blandit, odio convallis suscipit venenatis, ante ipsum cursus augue.
+* **First steps**
+
+  * :doc:`getting_started/index`
+  * :doc:`getting_started/tutorial`
+
+* **Using XY**
+
+  * :doc:`editor_manual/index`
 
 
-
-
-Contents:
+Index:
 
 .. toctree::
    :maxdepth: 2
+   :titlesonly:
+
+   getting_started/index
+   topics/index
+   editor_manual/index
 
 
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
