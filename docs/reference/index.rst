@@ -6,3 +6,9 @@ Reference
 * include `doctests <https://docs.python.org/2/library/doctest.html>`_
 * checkout `swagger <http://swagger.io/>`_
 
+.. toctree::
+   :maxdepth: 2
+   :titlesonly:
+
+   services/index
+

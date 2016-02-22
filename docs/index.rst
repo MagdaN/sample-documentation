@@ -12,15 +12,15 @@ Ideas and base structure of a software documentation based on `this blogpost <ht
 
   * :doc:`getting_started/index`
   * :doc:`getting_started/tutorial`
+  * :doc:`getting_started/installation`
 
 * **API**
 
   * :doc:`reference/index`
-  * :doc:`services/index`
 
 * **Using XY**
 
-  * :doc:`editor_manual/index`
+  * :doc:`users_manual/index`
 
 
 Index:
@@ -30,11 +30,9 @@ Index:
    :titlesonly:
 
    getting_started/index
-   services/index
    topics/index
    reference/index
-   deployment/index
-   editor_manual/index
+   users_manual/index
    support/index
 
 
